@@ -54,6 +54,7 @@ secrets.json
 
 # Data / caches (keep assignment CSVs tracked unless huge)
 .cache/
+\#3/cache/
 *.parquet
 *.h5
 *.hdf5
