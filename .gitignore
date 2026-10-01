@@ -60,6 +60,8 @@ secrets.json
 *.hdf5
 *.pkl
 *.pickle
+\#3/Data from 2010/
+\#3/UnlabelledDataset_2/
 
 # OS / misc
 Thumbs.db
